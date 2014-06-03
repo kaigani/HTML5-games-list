@@ -16,7 +16,7 @@
                 /* Alias the conversion method to make it easier to swap libraries in the future. */
                 markdownToHtml = converter.makeHtml;
  
-            $.get("readme.md").success(function (data) {
+            $.get("README.md").success(function (data) {
                 $("#readme").html(markdownToHtml(data));
             });
         });
