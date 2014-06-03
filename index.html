@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>HTML5 Games on GitHub</title>
+</head>
+<body>
+ 
+    <div id="readme"></div>
+ 
+    <script src="http://code.jquery.com/jquery.min.js"></script>
+    <script src="js/Markdown.Converter.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function jQueryReady($) {
+            var converter = new Markdown.Converter(),
+                /* Alias the conversion method to make it easier to swap libraries in the future. */
+                markdownToHtml = converter.makeHtml;
+ 
+            $.get("readme.md").success(function (data) {
+                $("#readme").html(markdownToHtml(data));
+            });
+        });
+    </script>
+ 
+</body>
+</html>
