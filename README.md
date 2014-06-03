@@ -14,3 +14,7 @@ Games should be purely client-side and be able to run on a local server without 
 **RACING**
 
 [HexGL](https://github.com/BKcore/HexGL)
+
+**MULTIPLAYER**
+
+[BrowserQuest](https://github.com/mozilla/BrowserQuest)
