@@ -28,8 +28,6 @@ Games should be purely client-side and be able to run on a local server without 
 [BrowserQuest](https://github.com/mozilla/BrowserQuest)
 
 ### USEFUL LINKS
-
-[GitHub Game Off 2012](https://github.com/blog/1303-github-game-off)
-[GitHub Game Off 2013](https://github.com/blog/1674-github-game-off-ii)
-
-[Games made in the Phaser HTML5 Engine](http://pgl.ilinov.eu/)
+- [GitHub Game Off 2012](https://github.com/blog/1303-github-game-off)
+- [GitHub Game Off 2013](https://github.com/blog/1674-github-game-off-ii)
+- [Games made in the Phaser HTML5 Engine](http://pgl.ilinov.eu/)
