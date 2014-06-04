@@ -1,4 +1,4 @@
-A list of HTML5 games hosted on GitHub
+HTML5 games hosted on GitHub
 ================
 
 ### SELECTION CRITERIA
