@@ -8,29 +8,37 @@ The aim of this curated list is to be a collection of quality, completed HTML5 g
 Games should be purely client-side and be able to run on a local server without any additional requirements.
 
 **ACTION**
+
 - [Monster Wants Candy](https://github.com/EnclaveGames/Monster-Wants-Candy)
 
 **ARCADE**
+
 - [Circus Charlie](https://github.com/eugenioclrc/circushtml5)
 - [Space Invaders](https://github.com/StrykerKKD/SpaceInvaders)
 
 **BREAKOUT**
+
 - [Breakouts - Game Engine Demos](https://github.com/city41/breakouts)
 
 **PLATFORMER**
+
 - [Elemental One](https://github.com/voithos/elemental-one)
 
 **PUZZLE**
+
 - [Monkey Rally](https://github.com/antila/ludum-dare-28)
 
 **RACING**
+
 - [HexGL](https://github.com/BKcore/HexGL)
 - [Chacket Valleyparker: Drill Bunny](https://github.com/DreamShowAdventures/LudumDare29)
 
 **SHOOTER**
+
 - [Dental Defender](https://github.com/cshepp/candyjam/)
 
 **MULTIPLAYER**
+
 - [BrowserQuest](https://github.com/mozilla/BrowserQuest)
 
 ### USEFUL LINKS
