@@ -10,14 +10,25 @@ Games should be purely client-side and be able to run on a local server without 
 **ACTION**
 - [Monster Wants Candy](https://github.com/EnclaveGames/Monster-Wants-Candy)
 
+**ARCADE**
+- [Circus Charlie](https://github.com/eugenioclrc/circushtml5)
+- [Space Invaders](https://github.com/StrykerKKD/SpaceInvaders)
+
 **BREAKOUT**
 - [Breakouts - Game Engine Demos](https://github.com/city41/breakouts)
+
+**PLATFORMER**
+- [Elemental One](https://github.com/voithos/elemental-one)
 
 **PUZZLE**
 - [Monkey Rally](https://github.com/antila/ludum-dare-28)
 
 **RACING**
 - [HexGL](https://github.com/BKcore/HexGL)
+- [Chacket Valleyparker: Drill Bunny](https://github.com/DreamShowAdventures/LudumDare29)
+
+**SHOOTER**
+- [Dental Defender](https://github.com/cshepp/candyjam/)
 
 **MULTIPLAYER**
 - [BrowserQuest](https://github.com/mozilla/BrowserQuest)
@@ -27,4 +38,6 @@ Games should be purely client-side and be able to run on a local server without 
   - [Winners](https://github.com/blog/1337-github-game-off-winners)
 - [GitHub Game Off 2013](https://github.com/blog/1674-github-game-off-ii)
   - [Winners](https://github.com/blog/1731-github-game-off-ii-winners)
-- [Games made in the Phaser HTML5 Engine](http://pgl.ilinov.eu/)
+- Phaser HTML5 Engine
+  - [Examples](https://github.com/photonstorm/phaser-examples)
+  - [List of Games](http://pgl.ilinov.eu/)
