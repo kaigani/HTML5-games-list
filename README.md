@@ -15,6 +15,7 @@ Games should be purely client-side and be able to run on a local server without 
 
 - [Circus Charlie](https://github.com/eugenioclrc/circushtml5)
 - [Space Invaders](https://github.com/StrykerKKD/SpaceInvaders)
+- [Space Crusade](https://github.com/Loopeex/space-crusade)
 
 **BREAKOUT**
 
@@ -40,6 +41,12 @@ Games should be purely client-side and be able to run on a local server without 
 **MULTIPLAYER**
 
 - [BrowserQuest](https://github.com/mozilla/BrowserQuest)
+
+**ENGINE DEMOS**
+
+- [Flying Dog](https://github.com/ekelokorpi/flyingdog) (req PandaJS)
+- [WhackAThing](https://github.com/ekelokorpi/whackathing) (req PandaJS)
+
 
 ### USEFUL LINKS
 - [GitHub Game Off 2012](https://github.com/blog/1303-github-game-off) 
