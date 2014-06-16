@@ -17,10 +17,6 @@ Games should be purely client-side and be able to run on a local server without 
 - [Space Invaders](https://github.com/StrykerKKD/SpaceInvaders)
 - [Space Crusade](https://github.com/Loopeex/space-crusade)
 
-**BREAKOUT**
-
-- [Breakouts - Game Engine Demos](https://github.com/city41/breakouts)
-
 **PLATFORMER**
 
 - [Elemental One](https://github.com/voithos/elemental-one)
@@ -44,6 +40,7 @@ Games should be purely client-side and be able to run on a local server without 
 
 **ENGINE DEMOS**
 
+- [Breakouts](https://github.com/city41/breakouts) (Multiple engines)
 - [Flying Dog](https://github.com/ekelokorpi/flyingdog) (req PandaJS)
 - [WhackAThing](https://github.com/ekelokorpi/whackathing) (req PandaJS)
 
