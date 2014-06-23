@@ -53,3 +53,4 @@ Games should be purely client-side and be able to run on a local server without 
 - Phaser HTML5 Engine
   - [Examples](https://github.com/photonstorm/phaser-examples)
   - [List of Games](http://pgl.ilinov.eu/)
+  - [Game Mechanic Explorer](http://gamemechanicexplorer.com/)
