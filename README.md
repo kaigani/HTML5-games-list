@@ -17,6 +17,11 @@ Games should be purely client-side and be able to run on a local server without 
 - [Space Invaders](https://github.com/StrykerKKD/SpaceInvaders)
 - [Space Crusade](https://github.com/Loopeex/space-crusade)
 
+**CARD**
+
+- [Couple-quest](https://github.com/Clonewayx/Couple-quest)
+
+
 **PLATFORMER**
 
 - [Elemental One](https://github.com/voithos/elemental-one)
