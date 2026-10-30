@@ -37,6 +37,7 @@ Games should be purely client-side and be able to run on a local server without 
 **MULTIPLAYER**
 
 - [BrowserQuest](https://github.com/mozilla/BrowserQuest)
+- [Trick or Take](https://github.com/zicojiao/trick-or-take) - Fast-paced multiplayer Halloween candy heist game with in-browser spatial audio.
 
 **ENGINE DEMOS**
 
